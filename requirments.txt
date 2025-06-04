@@ -1,4 +1,8 @@
-pip install gradio
-pip install openai  # if using OpenAI API
-pip install pandas  # or others as needed
-pip freeze > requirements.txt
+gradio
+openai
+pandas
+python-dateutil
+numpy
+scikit-learn
+matplotlib
+
