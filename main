@@ -1,0 +1,4 @@
+
+git remote add origin https://github.com/RabiaBashir22/BLLMA_Final.git
+git branch -M main
+git push -u origin main
